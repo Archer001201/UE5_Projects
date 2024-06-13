@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Arche/Desktop/UE5_Projects/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Arche/Desktop/UE5_Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/Arche/Desktop/UE5_Projects/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset"
+			]
+		}
+	]
+}
