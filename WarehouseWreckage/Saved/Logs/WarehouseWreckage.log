@@ -4317,3 +4317,6 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.13-08.41.25:788][374]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
 [2024.06.13-08.41.25:800][374]LogXGEController: Cleaning working directory: C:/Users/Arche/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2024.06.13-08.41.25:820][374]LogPakFile: Destroying PakPlatformFile
+[2024.06.13-08.41.39:695][374]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.06.13-08.41.39:726][374]LogExit: Exiting.
+[2024.06.13-08.41.39:757][374]Log file closed, 06/13/24 01:41:39
