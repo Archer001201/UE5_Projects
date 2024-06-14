@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\arche\\desktop\\ue5_projects\\obstacleassault\\source\\obstacleassault\\obstacleassault.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\arche\\desktop\\ue5_projects\\obstacleassault\\intermediate\\build\\win64\\x64\\obstacleassaulteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\arche\\desktop\\ue5_projects\\obstacleassault\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstacleassault\\definitions.obstacleassault.h",
+            "c:\\users\\arche\\desktop\\ue5_projects\\obstacleassault\\source\\obstacleassault\\obstacleassault.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
