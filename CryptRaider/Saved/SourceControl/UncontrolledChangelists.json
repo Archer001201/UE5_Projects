@@ -11,7 +11,10 @@
 				"C:/Users/Arche/Desktop/UE5_Projects/CryptRaider/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
 				"C:/Users/Arche/Desktop/UE5_Projects/CryptRaider/Content/FirstPerson/Blueprints/BP_PickUp_Rifle.uasset",
 				"C:/Users/Arche/Desktop/UE5_Projects/CryptRaider/Content/MedievalDungeon/Blueprints/BP_Torch.uasset",
-				"C:/Users/Arche/Desktop/UE5_Projects/CryptRaider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset"
+				"C:/Users/Arche/Desktop/UE5_Projects/CryptRaider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"C:/Users/Arche/Desktop/UE5_Projects/CryptRaider/Content/FirstPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/Arche/Desktop/UE5_Projects/CryptRaider/Content/BP_Player.uasset",
+				"C:/Users/Arche/Desktop/UE5_Projects/CryptRaider/Content/BP_CryptRaiderGameMode.uasset"
 			]
 		}
 	]
