@@ -38,6 +38,12 @@ void UMover::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponent
 	// float FloatValue = *YourFloat;
 	// UE_LOG(LogTemp, Display, TEXT("%f"), *YourFloat);
 
+	AActor* Owner = GetOwner();
+	FString Name = Owner->GetActorNameOrLabel();
+	FVector OwnerLocation = Owner->GetActorLocation();
+	FString Message = Name + " location is: " + OwnerLocation.ToCompactString();
+	UE_LOG(LogTemp, Display, TEXT("%s"), *Message);
+
 	// ...
 }
 
